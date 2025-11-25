@@ -11,7 +11,7 @@
 
 - 🎓 3rd Year Computer Science Student — *Sinhgad Institute of Technology, Lonavala*  
 - 💻 Web Developer (Frontend + Backend )  
-- 📚 Currently learning **DSA** & **Data Science**  
+- 📚 learning **DSA** & **Data Science**  
 - 🚀 Passionate about building clean & modern web apps  
 - 📩 Reach me at: **bittukumarab149@gmail.com**  
 
@@ -77,6 +77,8 @@ A simple CRUD-based project using Node.js + MongoDB.
   <a href="https://www.linkedin.com/in/bittu-kumar-5a2797281/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="https://x.com/"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
   <a href="https://github.com/Bittu149"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://leetcode.com/u/Bittukuamr/"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
+  <a href="https://www.geeksforgeeks.org/user/bittusing50se/"><img src="https://skillicons.dev/icons?i=gfg" height="45"/></a>
 </p>
 
 ---
