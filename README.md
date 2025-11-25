@@ -48,15 +48,6 @@ A modern responsive portfolio website built using HTML, CSS, JS & React.
 
 ➡ *Repo:* https://github.com/Bittu149 (add your repo link here)
 
----
-
-### 🔹 *Student Management System*
-A simple CRUD-based project using Node.js + MongoDB.
-
-➡ *Repo:* (add when ready)
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
