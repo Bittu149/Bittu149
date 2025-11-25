@@ -21,7 +21,7 @@
 
 ### *Languages*
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,c,cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp" height="50"/>
 </p>
 
 ### *Frontend*
