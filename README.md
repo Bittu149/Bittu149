@@ -10,7 +10,7 @@
 ## 🌟 About Me  
 
 - 🎓 3rd Year Computer Science Student — *Sinhgad Institute of Technology, Lonavala*  
-- 💻 Web Developer (Frontend + Backend )  
+- 💻 Web Developer (Frontend + Backend)  
 - 📚 learning **DSA** & **Data Science**  
 - 🚀 Passionate about building clean & modern web apps  
 - 📩 Reach me at: **bittukumarab149@gmail.com**  
@@ -36,7 +36,7 @@
 
 ### *Database & Tools*
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postgres" height="50"/>
 </p>
 
 ---
