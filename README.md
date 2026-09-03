@@ -9,7 +9,7 @@
 
 ## 🌟 About Me  
 
-- 🎓 3rd Year Computer Science Student — *Sinhgad Institute of Technology, Lonavala*  
+- 🎓 4th Year Computer Science Student — *Sinhgad Institute of Technology, Lonavala*  
 - 💻 Web Developer (Frontend + Backend)  
 - 📚 learning **DSA** & **Data Science**  
 - 🚀 Passionate about building clean & modern web apps  
